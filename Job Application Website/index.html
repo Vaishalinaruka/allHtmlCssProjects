@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Job Application Form</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bitter&family=Poppins&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="content">
+        <h1>Job Application</h1>
+        <span> (Web)</span>
+
+        <div class="grid-container">
+          <div class="item firstName">
+            <form>
+              <label for="fname">First Name</label><br />
+              <input type="text" id="fname" name="fname" />
+            </form>
+          </div>
+
+          <div class="item lastName">
+            <form>
+              <label for="lname">Last Name</label><br />
+              <input type="text" id="lname" name="lname" />
+            </form>
+          </div>
+          <div class="item email">
+            <form>
+              <label for="email">Email</label><br />
+              <input type="text" id="email" name="email" />
+            </form>
+          </div>
+          <div class="item jobRole">
+            <form>
+              <label for="jobRole">Job Role</label><br />
+
+              <select class="dropdown" name="jobRole">
+                <option value="Select Job Role">Select Job Role</option>
+                <option value="Frontend Developer">Frontend Developer</option>
+                <option value="Backend Developer">Backend Developer</option>
+                <option value="Fullstack Developer">Fullstack Developer</option>
+                <option value="UI/UX Designer">UI/UX Designer</option>
+              </select>
+            </form>
+          </div>
+          <div class="item address">
+            <form>
+              <label for="address">Address</label><br />
+              <textarea
+                id="address"
+                name="address"
+                cols="75"
+                rows="5"
+              ></textarea>
+            </form>
+          </div>
+          <div class="item city">
+            <form>
+              <label for="city">City</label><br />
+              <input type="text" id="city" name="city" />
+            </form>
+          </div>
+          <div class="item pincode">
+            <form>
+              <label for="pincode">Pincode</label><br />
+              <input type="text" id="pincode" name="pincode" />
+            </form>
+          </div>
+          <div class="item startDate">
+            <form>
+              <label for="startDate">Start Date</label><br />
+              <input type="date" id="Test_DatetimeLocal" />
+            </form>
+          </div>
+          <div class="item uploadYourCv">
+            <form>
+              <label for="uploadYourCv">Upload Your CV</label><br />
+              <input type="file" id="myfile" name="myfile" />
+            </form>
+          </div>
+        </div>
+        <input type="button" name="button" id="button" value="Apply Now" />
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,422 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  line-height: 1.4;
+  font-weight: 300;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+}
+
+#overview,
+#videos,
+#gifts,
+#musicsection {
+  scroll-behavior: smooth;
+}
+
+nav {
+  background-color: #270082;
+  padding: 10px 100px;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+}
+
+.heading {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.items {
+  display: flex;
+  gap: 20px;
+  font-size: 15px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.heroImg img {
+  width: 100%;
+  height: 100vh;
+}
+
+.hero {
+  position: relative;
+}
+
+.heroContent {
+  position: absolute;
+  top: 40%;
+  left: 25%;
+  width: 50%;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  /* justify-content: center; */
+  align-items: center;
+}
+
+.heroContent p {
+  font-size: 14px;
+}
+
+.heroContent h3 {
+  font-weight: 400;
+}
+
+.heroContent h1 {
+  font-size: 40px;
+}
+
+.music {
+  background-color: #281154;
+  height: 680px;
+  width: 100%;
+  color: white;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center;
+}
+
+.icon {
+  display: flex;
+  gap: 13px;
+  padding-top: 30px;
+}
+
+.icon > i {
+  padding-top: 15px;
+}
+
+.content h3 {
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+p.stream {
+  width: 60%;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+.content button {
+  height: 40px;
+  padding: 15px 20px 30px;
+  background-color: red;
+  color: white;
+  text-align: center;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+p.orange {
+  font-size: 14px;
+  margin-bottom: 30px;
+  padding: 15px;
+}
+
+.content img {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.thirdsection {
+  margin-top: 300px;
+  margin-bottom: 50px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+}
+
+.thirdsection p {
+  width: 65%;
+  color: black;
+  font-size: 14px;
+  line-height: 1.9;
+  font-weight: 400;
+}
+
+.thirdsection button {
+  height: 40px;
+  padding: 10px 10px 20px;
+  background-color: #37008e;
+
+  color: white;
+  text-align: center;
+  font-size: 16px;
+  margin-bottom: 20px;
+  border: none;
+}
+
+.thirdsection img {
+  height: 600px;
+  width: 70%;
+}
+
+.fourthsection {
+  height: 600px;
+  width: 100%;
+  background-image: url(./images/video.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  align-items: center;
+  justify-content: center;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+
+  color: white;
+  width: 60%;
+}
+
+.text h3 {
+  text-align: center;
+}
+
+.text p {
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.giftcard {
+  display: flex;
+  height: 60vh;
+  gap: 30px;
+  width: 80%;
+  /* justify-content: center; */
+  align-items: center;
+  margin: 50px auto;
+  text-align: left;
+}
+
+.giftcontent {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.giftcontent p {
+  font-size: 13px;
+  color: #000000;
+  font-weight: 400;
+  line-height: 1.8;
+}
+
+.giftcontent hr {
+  border: 1px solid lightgray;
+}
+
+.giftcontent button {
+  align-self: flex-start;
+  color: white;
+  background-color: #37008e;
+
+  border: none;
+  padding: 10px 25px;
+  text-align: center;
+  font-size: 16px;
+}
+
+.final {
+  background-color: #1b0058;
+  height: 50vh;
+  width: 100%;
+  text-align: left;
+}
+
+.finaldiv {
+  display: flex;
+  gap: 30px;
+  color: white;
+  justify-content: center;
+  padding-top: 80px;
+}
+
+.finaldiv h2 {
+  margin-bottom: 4px;
+  font-size: 16px;
+}
+
+.finaldiv hr {
+  color: lightcyan;
+  margin-bottom: 12px;
+  width: 200px;
+}
+
+.finaldiv li {
+  list-style: none;
+  font-size: 14px;
+  font-weight: 300;
+}
+
+footer {
+  width: 100%;
+  height: 50px;
+  background-color: #270082;
+  color: white;
+  padding-top: 15px;
+  font-size: 12px;
+}
+
+@media (max-width: 786px) {
+  .navigation {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .items {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+
+  .heroContent {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    width: 80%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    /* align-items: center; */
+  }
+
+  p.stream {
+    width: 90%;
+  }
+
+  .music {
+    height: 550px;
+  }
+
+  .thirdsection {
+    margin-top: 150px;
+    gap: 20px;
+  }
+
+  .thirdsection p {
+    width: 90%;
+  }
+
+  .thirdsection img {
+    width: 80%;
+    height: 250px;
+  }
+
+  .text {
+    gap: 35px;
+    width: 90%;
+  }
+
+  .text p {
+    font-size: 12px;
+    font-weight: 500;
+  }
+
+  .fourthsection {
+    height: 400px;
+  }
+
+  .text {
+    gap: 20px;
+    width: 90%;
+  }
+
+  .giftcard {
+    display: flex;
+    flex-direction: column;
+    height: 130vh;
+    width: 90%;
+  }
+
+  .giftImg img {
+    width: 100%;
+    height: 60vh;
+  }
+
+  .final {
+    background-color: #1b0058;
+    height: 150vh;
+    width: 100%;
+    text-align: left;
+  }
+
+  .final {
+    height: 350px;
+    width: 100%;
+  }
+
+  .final hr {
+    margin-bottom: 12px;
+    width: 180px;
+  }
+
+  .finaldiv {
+    padding: 25px 25px;
+    display: grid;
+    gap: 10px;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    width: 100%;
+  }
+
+  .shop {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 2;
+  }
+
+  .orange {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+  }
+  .education {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 2;
+    grid-row-end: 3;
+  }
+  .about {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 3;
+  }
+}

@@ -1,0 +1,132 @@
+@import url("https://fonts.googleapis.com/css2?family=Bitter&family=Lato:wght@100&family=Poppins&family=Roboto:wght@100;400&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-family: "Roboto", sans-serif;
+  line-height: 1.5;
+  scroll-behavior: smooth;
+}
+
+.container {
+  display: flex;
+  gap: 25px;
+}
+
+main li,
+p {
+  font-size: 14px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+/* main li {
+  font-size: 14px;
+  font-weight: 500;
+  margin-bottom: 20px;
+} */
+
+ul {
+  margin-left: 30px;
+}
+
+.navclass {
+  border: 1.5px solid black;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  align-items: flex-start;
+}
+
+nav h1 {
+  padding: 10px;
+  font-size: 26px;
+  font-weight: 900;
+  border-bottom: 1px solid black;
+  margin-bottom: -3px;
+  /* width: 380px; */
+}
+
+.navclass ul li {
+  font-size: 14px;
+  font-weight: 500;
+  list-style: none;
+  padding: 10px;
+  border-bottom: 1px solid black;
+  margin-left: -30px;
+  color: black;
+  margin-bottom: 0px;
+}
+
+.navclass ul li:hover {
+  background-color: darkgray;
+  transition: 0.3s ease-in-out;
+}
+
+a {
+  text-decoration: none;
+}
+
+main {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+main h1 {
+  font-size: 32px;
+  font-weight: 900;
+
+  margin-bottom: 15px;
+}
+
+.pic {
+  height: 100px;
+  width: 90%;
+  background-color: lightgray;
+  margin-left: 20px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+/* a:hover {
+  text-decoration: underline;
+} */
+
+@media (max-width: 480px) {
+  .container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .pic {
+    padding: 10px;
+    height: 120px;
+    width: 100%;
+    margin-left: -1px;
+  }
+  .navclass h1 {
+    width: 600px;
+  }
+  .navclass ul li {
+    font-size: 14px;
+    font-weight: 500;
+    list-style: none;
+    padding: 10px;
+    width: 600px;
+    border-bottom: 1px solid black;
+    color: black;
+    margin-bottom: 0px;
+  }
+
+  .navclass ul li:hover {
+    background-color: darkgray;
+    transition: 0.3s ease-in-out;
+  }
+}

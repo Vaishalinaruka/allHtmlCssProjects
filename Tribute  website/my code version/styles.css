@@ -1,0 +1,57 @@
+body {
+  background-color: #e6e6fa;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: sans-serif;
+  font-weight: 500;
+}
+
+p,
+ul {
+  line-height: 1.5rem;
+}
+
+img {
+  margin: 0 10% 8% 0;
+}
+
+footer {
+  position: relative;
+  margin: 5% 2% 0% 60%;
+  font-size: small;
+  font-weight: 600;
+}
+
+.border {
+  border-radius: 50%;
+  height: 250px;
+  float: left;
+}
+
+.container {
+  padding: 5% 15% 1% 15%;
+  position: absolute;
+  font-weight: 500;
+  font-family: "Bitter", serif;
+  border: 10px solid;
+}
+
+.clear {
+  clear: left;
+}
+
+.fontSize {
+  font-size: small;
+  font-weight: 600;
+}
+
+.div {
+  position: relative;
+  margin: 15% 0% 0% 30%;
+}
+
+#year {
+  margin-left: 40%;
+}

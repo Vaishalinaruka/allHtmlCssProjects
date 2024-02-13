@@ -1,0 +1,81 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  padding-top: 5%;
+  padding-left: 5%;
+  padding-bottom: 5%;
+  font-weight: 700;
+  font-family: sans-serif;
+  display: inline-block;
+}
+
+span {
+  font-size: 25px;
+  font-weight: 600;
+  font-family: sans-serif;
+}
+
+.container {
+  background-color: #a9a9a9;
+  min-height: 100vh;
+  position: relative;
+}
+
+.content {
+  background-color: white;
+  width: 600px;
+  height: 600px;
+  border: 5px solid white;
+  border-radius: 3%;
+  position: absolute;
+  top: 20px;
+  left: 25%;
+}
+
+.grid-container {
+  font-family: "Bitter", serif;
+  font-family: "Poppins", sans-serif;
+  font-size: smaller;
+  font-weight: 600;
+
+  max-height: 400px;
+
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr 3fr 1fr 1fr 1fr;
+  gap: 10px;
+}
+
+.address {
+  grid-column: span 2;
+}
+
+input[type="button"] {
+  background-color: red;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 5px 16px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  position: relative;
+  top: 70px;
+  left: 450px;
+}
+
+input[type="text"],
+input[type="date"],
+input[type="file"],
+.dropdown {
+  width: 100%;
+  padding: 8px 20px;
+  border-radius: 5px;
+  border: 1px solid #000000;
+  margin: 6px 0;
+  box-sizing: border-box;
+}
