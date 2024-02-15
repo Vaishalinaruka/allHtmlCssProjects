@@ -22,4 +22,8 @@ These are 10 practice projects that I made using HTML and CSS.
 <img width="960" alt="2" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/d7e7bec5-bb8c-4790-9692-17867cae8eff">
 <img width="960" alt="3" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/cb0de128-bfc8-46f2-9777-71759bf52dd0">
 
+ 4. Job Application Form :
+
+ <img width="960" alt="Job Application Form" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/61af8443-75ea-47c5-a735-d080674d8e20">
+
    
