@@ -26,11 +26,21 @@ These are 10 practice projects that I made using HTML and CSS.
 
  <img width="960" alt="Job Application Form" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/61af8443-75ea-47c5-a735-d080674d8e20">
 
- 4. Parallax Website :
+ 5. Parallax Website :
 <img width="960" alt="1" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/81f15806-73e8-4c58-9b04-cd3a6a03a1ae">
 <img width="960" alt="2" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/3b833078-6765-41f6-94b0-b8664e3318d3">
 <img width="960" alt="3" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/96693495-43e7-4046-9d5c-5b41aac53481">
 <img width="960" alt="4" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/d5cad4be-e87d-4878-a188-46223ac2ac8c">
 <img width="960" alt="5" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/07fbfc31-1373-465d-91b3-0807c628d5c6">
+<img width="960" alt="1" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/d36deb67-0cef-4153-95e4-313f8e94b23c">
 
-  
+ 5. Music Website :
+
+<img width="960" alt="1" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/e9c519de-f44b-4def-8b8e-1d35cdfa53fd">
+<img width="960" alt="2" src="https://gith<img width="960" alt="2" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/52d39182-c1b4-4206-99fa-a3c399b906f6">
+ub.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/32c4b815-2f55-42fd-8bbd-4e22d250f615">
+<img width="960" alt="3" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/c39b5e2d-0384-4d90-bba4-bbc11aa1eb31">
+<img width="960" alt="4" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/334e0020-df6b-4017-8c20-d9278fad8ae1">
+ <img width="960" alt="5" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/170bf14e-fdeb-4db2-91ae-e928dffbd741">
+<img width="960" alt="6" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/01a49355-f38f-4271-b7cd-0abb5b90cef9">
+<img width="960" alt="7" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/7c4999b0-c0b3-43ec-b06f-2a3b3f395441">
