@@ -12,7 +12,7 @@ These are 10 practice projects that I made using HTML and CSS.
 <img width="960" alt="8" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/6f496abd-9d43-4999-b59b-0109fc6906b5">
 
 
-3. Developers Landing Page :
+2. Developers Landing Page :
 
 <img width="960" alt="1" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/6850b466-7fbe-4400-bc3f-7c45e351b7b3">
 <img width="960" alt="2" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/2f99b26c-3e71-46d0-ba1e-c13fac25deb4">
@@ -26,7 +26,7 @@ These are 10 practice projects that I made using HTML and CSS.
 <img width="960" alt="3" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/cb0de128-bfc8-46f2-9777-71759bf52dd0">
 
 
- 5. Job Application Website :
+ 4. Job Application Website :
 
  <img width="960" alt="Job Application Form" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/61af8443-75ea-47c5-a735-d080674d8e20">
 
@@ -40,7 +40,7 @@ These are 10 practice projects that I made using HTML and CSS.
 <img width="960" alt="5" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/07fbfc31-1373-465d-91b3-0807c628d5c6">
 
 
- 7. Music Website :
+ 6. Music Website :
 
 <img width="960" alt="1" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/e9c519de-f44b-4def-8b8e-1d35cdfa53fd">
 <img width="960" alt="2" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/2b49eb89-ea3c-4018-937b-270180790b99">
