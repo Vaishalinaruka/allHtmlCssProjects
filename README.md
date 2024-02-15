@@ -8,5 +8,12 @@ These are 10 practice projects that I made using HTML and CSS.
 <img width="960" alt="5" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/dce6cf9b-ce26-4513-8b65-9f7d9772af8c">
 <img width="960" alt="6" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/9044f575-4382-4555-9f5e-92587b77161c">
 <img width="960" alt="7" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/205c1692-4075-495b-95ce-1984350f504b">
-
 <img width="960" alt="8" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/6f496abd-9d43-4999-b59b-0109fc6906b5">
+
+
+2. Developers Landing Page :
+
+<img width="960" alt="1" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/6850b466-7fbe-4400-bc3f-7c45e351b7b3">
+<img width="960" alt="2" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/2f99b26c-3e71-46d0-ba1e-c13fac25deb4">
+<img width="960" alt="3" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/c94b2960-1a08-4989-89b2-06da57e76193">
+
