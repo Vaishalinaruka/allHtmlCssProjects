@@ -52,8 +52,9 @@ These are 10 practice projects that I made using HTML and CSS.
 <img width="960" alt="Screenshot 2024-02-15 202218" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/eb1f9271-1d90-4b6f-bec8-c701cf47c53b">
 
 8. Restaurant Website :
-   <img width="960" alt="1" src="https://gith<img width="960" alt="2" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/78ebe45a-9e1d-488a-95e0-6c7b50ab3737">
-   <img width="960" alt="2" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/0e3885dd-62e8-4da4-9a10-7e720b4c083c">
+  ![Uploading 1.png…]()
+
+  <img width="960" alt="2" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/0e3885dd-62e8-4da4-9a10-7e720b4c083c">
 <img width="960" alt="3" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/e3ba50dc-9625-470a-94ff-71156ff30200">
 <img width="960" alt="4" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/483dca63-f108-4084-8e92-d419712887d8">
 
