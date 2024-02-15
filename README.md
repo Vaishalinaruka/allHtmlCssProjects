@@ -33,13 +33,20 @@ These are 10 practice projects that I made using HTML and CSS.
 <img width="960" alt="4" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/d5cad4be-e87d-4878-a188-46223ac2ac8c">
 <img width="960" alt="5" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/07fbfc31-1373-465d-91b3-0807c628d5c6">
 
- 5. Music Website :
+ 6. Music Website :
 
 <img width="960" alt="1" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/e9c519de-f44b-4def-8b8e-1d35cdfa53fd">
 <img width="960" alt="2" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/2b49eb89-ea3c-4018-937b-270180790b99">
-
 <img width="960" alt="3" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/c39b5e2d-0384-4d90-bba4-bbc11aa1eb31">
 <img width="960" alt="4" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/334e0020-df6b-4017-8c20-d9278fad8ae1">
  <img width="960" alt="5" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/170bf14e-fdeb-4db2-91ae-e928dffbd741">
 <img width="960" alt="6" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/01a49355-f38f-4271-b7cd-0abb5b90cef9">
 <img width="960" alt="7" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/7c4999b0-c0b3-43ec-b06f-2a3b3f395441">
+
+7. Portfolio Website :
+<img width="960" alt="Screenshot 2024-02-15 202045" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/79553a94-8d70-498d-8b4f-fa4381c34e39">
+<img width="960" alt="Screenshot 2024-02-15 202111" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/87c3af13-57b9-4ba4-adaa-03cf7abf60dc">
+<img width="960" alt="Screenshot 2024-02-15 202125" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/1bd98d7d-d67c-42fc-987a-34a7c25a6df7">
+<img width="960" alt="Screenshot 2024-02-15 202211" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/790c4422-3838-4ab7-b065-b03e1612c70e">
+
+<img width="960" alt="Screenshot 2024-02-15 202218" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/eb1f9271-1d90-4b6f-bec8-c701cf47c53b">
