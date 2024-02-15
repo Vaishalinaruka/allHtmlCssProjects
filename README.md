@@ -61,4 +61,12 @@ These are 10 practice projects that I made using HTML and CSS.
    <img width="960" alt="1" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/9083cfa7-d363-441f-b04b-82b2f16edccb">
    <img width="960" alt="2" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/b67dc199-8606-48f2-adfa-6c1834e93b1c">
 
+10. Youtube Clone :
+
+<img width="960" alt="1" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/b9e6d7e4-5400-41a8-95f6-8602fda3a87a">
+<img width="960" alt="2" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/f1cf84e0-a2df-4bf5-a8c9-bfb26069766f">
+<img width="960" alt="3" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/14c08e21-5c14-42e9-961f-e2723f34edb1">
+<img width="960" alt="2" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/f197b223-b4c3-4bcf-a264-68e2dc7a04a8">
+<img width="960" alt="3" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/49d7c3c6-f63f-417d-a40b-e334b6de75e6">
+
 
