@@ -30,9 +30,7 @@ These are 10 practice projects that I made using HTML and CSS.
 <img width="960" alt="1" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/81f15806-73e8-4c58-9b04-cd3a6a03a1ae">
 <img width="960" alt="2" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/3b833078-6765-41f6-94b0-b8664e3318d3">
 <img width="960" alt="3" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/96693495-43e7-4046-9d5c-5b41aac53481">
-<img width="960" alt="4" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/754d2357-9ffa-4c5e-8e92-42891e43a0a2">
 <img width="960" alt="4" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/d5cad4be-e87d-4878-a188-46223ac2ac8c">
 <img width="960" alt="5" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/07fbfc31-1373-465d-91b3-0807c628d5c6">
-<img width="960" alt="5" src="https://github.com/Vaishalinaruka/allHtmlCssProjects/assets/102962579/0c4b3041-a947-4df6-8028-ac63a7bd651e">
 
   
